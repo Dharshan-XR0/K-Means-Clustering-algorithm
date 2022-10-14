@@ -24,6 +24,7 @@ Import the necessary packages.
 
 ## Program:
 ```python
+#To write a python program to implement K-Means Clustering Algorithm
 #NAME: DHARSHAN V
 #REGISTER NO: 22003103
 
@@ -65,10 +66,6 @@ print('The cluster group for the ApplicantIncome 9200 and Loan Amount110 is ',pr
 ## Output:
 
 ![output](/clusteringCSV.png)
-
-### Insert your output
-
-<br>
 
 ## Result
 Thus the K-means clustering algorithm is implemented and predicted the cluster class using python program.
