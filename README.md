@@ -6,7 +6,6 @@ To write a python program to implement K-Means Clustering Algorithm.
 2.	Anaconda – Python 3.7 Installation
 
 ## Algorithm:
-
 ### Step1
 Import the necessary packages.
 
